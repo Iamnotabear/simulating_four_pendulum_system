@@ -1,9 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-
-// Double Pendulum
-// https://youtu.be/uWzPe_S-RVE
 let x = 255;
 let y = 0;
 let r1 = 185;
