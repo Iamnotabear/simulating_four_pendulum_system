@@ -31,6 +31,7 @@ function setup() {
   a1 = PI / 2;
   a2 = PI / 2;
   a3 = PI / 2;  
+  a4 = PI/2;
   cx = width/2 ;
   cy = 40;
   buffer = createGraphics(width, height);
